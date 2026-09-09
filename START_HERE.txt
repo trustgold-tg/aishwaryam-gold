@@ -1,0 +1,33 @@
+AISHWARYAM GOLD WEBSITE
+
+HOW TO OPEN
+1. Extract this ZIP file (Windows: right-click, then Extract All).
+2. Open the extracted Aishwaryam_Gold_Website folder.
+3. Double-click index.html to view the website in your browser.
+Keep index.html, styles.css, app.js and the assets folder together.
+
+WHAT IS INCLUDED
+- index.html: complete editable website page
+- styles.css: responsive design and layout
+- app.js: navigation and WhatsApp enquiry interactions
+- assets/: original business logo, jewellery imagery and favicon
+- robots.txt and sitemap.xml: search-engine configuration
+
+CONTACT ACTIONS
+The call buttons use +91 91669 69166. The Chennai branch number is
+044 4265 4265. The enquiry form prepares a WhatsApp message for the
+visitor to review and send. It does not save enquiries or send emails.
+Internet access is needed for WhatsApp and Google Maps. Phone links
+need a calling application or a phone.
+
+BEFORE A PUBLIC LAUNCH
+This review version has search indexing disabled. Your developer should
+set the final domain in the canonical tag, structured data, Open Graph
+URL and sitemap, update the robots meta tag to index, follow, and update
+robots.txt to allow crawling and include the production sitemap URL.
+Connect the appropriate GA4/GTM and advertising conversion tracking IDs.
+Contact-click events are available, but no analytics account is connected.
+
+The website is static HTML, CSS and JavaScript and does not need npm,
+a build process or a database. Upload the folder contents to a static web
+host. Local file viewing is for review; it does not publish the website.
